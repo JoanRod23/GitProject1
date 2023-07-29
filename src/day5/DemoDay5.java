@@ -7,4 +7,8 @@ public class DemoDay5 {
 		System.out.println("HOTTTT....");
 	}
 
+public static void getData(){
+ System.out.println("Niceee");
+}
+	
 }
